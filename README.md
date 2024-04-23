@@ -1,3 +1,6 @@
+# citation
+If you use the targets from this repository please cite Pokorny et al., 2024 [10.3389/fpls.2024.1340056](10.3389/fpls.2024.1340056)
+
 # plastidTargets
 Identifying representative sequences for chloroplast genes
 
